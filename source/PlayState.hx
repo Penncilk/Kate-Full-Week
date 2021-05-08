@@ -676,14 +676,14 @@ class PlayState extends MusicBeatState
 						bg.active = false;
 						add(bg);
 
-						var stageFront:FlxSprite = new FlxSprite(-650, 600).loadGraphic(Paths.image('stagefront'));
+						var stageFront:FlxSprite = new FlxSprite(-650, 600).loadGraphic(Paths.image('katefloor'));
 						stageFront.setGraphicSize(Std.int(stageFront.width * 1.1));
 						stageFront.updateHitbox();
 						stageFront.antialiasing = true;
 						stageFront.scrollFactor.set(0.9, 0.9);
 						stageFront.active = false;
 						add(stageFront);
-				}
+}
 			default:
 			{
 					defaultCamZoom = 0.9;
