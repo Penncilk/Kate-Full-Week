@@ -21,7 +21,8 @@ This game was made with love to Newgrounds and its community. Extra love to Tom 
 ### Kade Engine
 - [KadeDeveloper](https://twitter.com/KadeDeveloper) - Maintainer and lead programmer
 - [The contributors](https://github.com/KadeDev/Kade-Engine/graphs/contributors)
-
+### Portraits
+Boyfriend Portait for Dialouge by [Friday Night Funkin' Restored](https://gamebanana.com/mods/44223)
 # Other pages
  - [BUILDING.md](https://github.com/KadeDev/Kade-Engine/blob/master/BUILDING.md) - How to compile/build the game (Em', please read this, it will make up for the lack of windows updates, as you can make a html version to test on)
  - [ModCharts.md](https://github.com/KadeDev/Kade-Engine/blob/master/ModCharts.md) - Mod Chart Documentation
