@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.6 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="DADDY_DEAREST.png" width="1782" height="1880">
+  <SubTexture name="Kate RIGHT0004.png.PNG" x="0" y="0"  width="362" height="609" frameX="-0" frameY="-0" frameWidth="362" frameHeight="609"/>
+  <SubTexture name="Kate RIGHT0000.png.PNG" x="362" y="0"  width="350" height="615" frameX="-0" frameY="-0" frameWidth="350" frameHeight="615"/>
+  <SubTexture name="Kate UP0002.png.PNG" x="0" y="609"  width="299" height="649" frameX="-0" frameY="-0" frameWidth="299" frameHeight="649"/>
+  <SubTexture name="Kate LEFT0000.png.PNG" x="299" y="615"  width="311" height="614" frameX="-0" frameY="-0" frameWidth="311" frameHeight="614"/>
+  <SubTexture name="Kate UP0001.png.PNG" x="610" y="615"  width="292" height="647" frameX="-0" frameY="-0" frameWidth="292" frameHeight="647"/>
+  <SubTexture name="Kate UP0000.png.PNG" x="902" y="0"  width="292" height="644" frameX="-0" frameY="-0" frameWidth="292" frameHeight="644"/>
+  <SubTexture name="Kate idle dance0002.png.PNG" x="299" y="1229"  width="295" height="626" frameX="-0" frameY="-0" frameWidth="295" frameHeight="626"/>
+  <SubTexture name="Kate idle dance0001.png.PNG" x="0" y="1258"  width="293" height="622" frameX="-0" frameY="-0" frameWidth="293" frameHeight="622"/>
+  <SubTexture name="Kate idle dance0000.png.PNG" x="594" y="1262"  width="292" height="616" frameX="-0" frameY="-0" frameWidth="292" frameHeight="616"/>
+  <SubTexture name="Kate idle dance0007.png.PNG" x="886" y="1262"  width="294" height="607" frameX="-0" frameY="-0" frameWidth="294" frameHeight="607"/>
+  <SubTexture name="Kate idle dance0006.png.PNG" x="902" y="644"  width="296" height="597" frameX="-0" frameY="-0" frameWidth="296" frameHeight="597"/>
+  <SubTexture name="Kate idle dance0003.png.PNG" x="1194" y="0"  width="296" height="589" frameX="-0" frameY="-0" frameWidth="296" frameHeight="589"/>
+  <SubTexture name="Kate idle dance0005.png.PNG" x="1180" y="1241"  width="297" height="587" frameX="-0" frameY="-0" frameWidth="297" frameHeight="587"/>
+  <SubTexture name="Kate DOWN0000.png.PNG" x="1198" y="589"  width="292" height="590" frameX="-0" frameY="-0" frameWidth="292" frameHeight="590"/>
+  <SubTexture name="Kate idle dance0004.png.PNG" x="1477" y="1179"  width="298" height="578" frameX="-0" frameY="-0" frameWidth="298" frameHeight="578"/>
+  <SubTexture name="Kate DOWN0001.png.PNG" x="1490" y="0"  width="292" height="587" frameX="-0" frameY="-0" frameWidth="292" frameHeight="587"/>
+  <SubTexture name="Kate DOWN0002.png.PNG" x="1490" y="587"  width="292" height="583" frameX="-0" frameY="-0" frameWidth="292" frameHeight="583"/>
+  <SubTexture name="Kate DOWN0003.png.PNG" x="1490" y="0"  width="292" height="587" frameX="-0" frameY="-0" frameWidth="292" frameHeight="587"/>
+  <SubTexture name="Kate DOWN0005.png.PNG" x="1490" y="0"  width="292" height="587" frameX="-0" frameY="-0" frameWidth="292" frameHeight="587"/>
+  <SubTexture name="Kate DOWN0004.png.PNG" x="1490" y="587"  width="292" height="583" frameX="-0" frameY="-0" frameWidth="292" frameHeight="583"/>
+  <SubTexture name="Kate DOWN0006.png.PNG" x="1490" y="587"  width="292" height="583" frameX="-0" frameY="-0" frameWidth="292" frameHeight="583"/>
+  <SubTexture name="Kate RIGHT0001.png.PNG" x="362" y="0"  width="350" height="615" frameX="-0" frameY="-0" frameWidth="350" frameHeight="615"/>
+  <SubTexture name="Kate RIGHT00010.png.PNG" x="362" y="0"  width="350" height="615" frameX="-0" frameY="-0" frameWidth="350" frameHeight="615"/>
+  <SubTexture name="Kate RIGHT00014.png.PNG" x="362" y="0"  width="350" height="615" frameX="-0" frameY="-0" frameWidth="350" frameHeight="615"/>
+  <SubTexture name="Kate RIGHT0002.png.PNG" x="362" y="0"  width="350" height="615" frameX="-0" frameY="-0" frameWidth="350" frameHeight="615"/>
+  <SubTexture name="Kate RIGHT0003.png.PNG" x="362" y="0"  width="350" height="615" frameX="-0" frameY="-0" frameWidth="350" frameHeight="615"/>
+  <SubTexture name="Kate RIGHT0005.png.PNG" x="0" y="0"  width="362" height="609" frameX="-0" frameY="-0" frameWidth="362" frameHeight="609"/>
+  <SubTexture name="Kate RIGHT0008.png.PNG" x="0" y="0"  width="362" height="609" frameX="-0" frameY="-0" frameWidth="362" frameHeight="609"/>
+  <SubTexture name="Kate RIGHT0009.png.PNG" x="0" y="0"  width="362" height="609" frameX="-0" frameY="-0" frameWidth="362" frameHeight="609"/>
+  <SubTexture name="Kate RIGHT0011.png.PNG" x="0" y="0"  width="362" height="609" frameX="-0" frameY="-0" frameWidth="362" frameHeight="609"/>
+  <SubTexture name="Kate RIGHT0012.png.PNG" x="0" y="0"  width="362" height="609" frameX="-0" frameY="-0" frameWidth="362" frameHeight="609"/>
+  <SubTexture name="Kate RIGHT0013.png.PNG" x="0" y="0"  width="362" height="609" frameX="-0" frameY="-0" frameWidth="362" frameHeight="609"/>
+  <SubTexture name="Kate RIGHT0015.png.PNG" x="0" y="0"  width="362" height="609" frameX="-0" frameY="-0" frameWidth="362" frameHeight="609"/>
+  <SubTexture name="Kate RIGHT0016.png.PNG" x="0" y="0"  width="362" height="609" frameX="-0" frameY="-0" frameWidth="362" frameHeight="609"/>
+  <SubTexture name="Kate RIGHT0017.png.PNG" x="0" y="0"  width="362" height="609" frameX="-0" frameY="-0" frameWidth="362" frameHeight="609"/>
+  <SubTexture name="Kate RIGHT0018.png.PNG" x="0" y="0"  width="362" height="609" frameX="-0" frameY="-0" frameWidth="362" frameHeight="609"/>
+  <SubTexture name="Kate UP0004.png.PNG" x="610" y="615"  width="292" height="647" frameX="-0" frameY="-0" frameWidth="292" frameHeight="647"/>
+  <SubTexture name="Kate UP0007.png.PNG" x="610" y="615"  width="292" height="647" frameX="-0" frameY="-0" frameWidth="292" frameHeight="647"/>
+  <SubTexture name="Kate UP0003.png.PNG" x="0" y="609"  width="299" height="649" frameX="-0" frameY="-0" frameWidth="299" frameHeight="649"/>
+  <SubTexture name="Kate UP0006.png.PNG" x="0" y="609"  width="299" height="649" frameX="-0" frameY="-0" frameWidth="299" frameHeight="649"/>
+  <SubTexture name="Kate idle dance0008.png.PNG" x="594" y="1262"  width="292" height="616" frameX="-0" frameY="-0" frameWidth="292" frameHeight="616"/>
+  <SubTexture name="Kate idle dance0009.png.PNG" x="299" y="1229"  width="295" height="626" frameX="-0" frameY="-0" frameWidth="295" frameHeight="626"/>
+  <SubTexture name="Kate idle dance0010.png.PNG" x="1194" y="0"  width="296" height="589" frameX="-0" frameY="-0" frameWidth="296" frameHeight="589"/>
+  <SubTexture name="Kate idle dance0011.png.PNG" x="1477" y="1179"  width="298" height="578" frameX="-0" frameY="-0" frameWidth="298" frameHeight="578"/>
+  <SubTexture name="Kate idle dance0012.png.PNG" x="1180" y="1241"  width="297" height="587" frameX="-0" frameY="-0" frameWidth="297" frameHeight="587"/>
+</TextureAtlas>
