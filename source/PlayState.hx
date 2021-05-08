@@ -1663,9 +1663,9 @@ class PlayState extends MusicBeatState
 
 	override public function update(elapsed:Float)
 	{
-	if (shakeCam)
-	{
-	FlxG.camera.shake(0.05, 0.05);
+        if (shakeCam)
+        {
+        FlxG.camera.shake(0.05, 0.05);
 	}
 		#if !debug
 		perfectMode = false;
