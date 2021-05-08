@@ -139,6 +139,7 @@ class PlayState extends MusicBeatState
 	private var songPositionBar:Float = 0;
 	
 	private var generatedMusic:Bool = false;
+	private var shakeCam:Bool = false;
 	private var startingSong:Bool = false;
 
 	private var iconP1:HealthIcon;
@@ -1662,6 +1663,10 @@ class PlayState extends MusicBeatState
 
 	override public function update(elapsed:Float)
 	{
+	if (shakeCam)
+	{
+	FlxG.camera.shake(0.05, 0.05);
+	}
 		#if !debug
 		perfectMode = false;
 		#end
@@ -3229,6 +3234,19 @@ class PlayState extends MusicBeatState
 		{
 			// dad.dance();
 		}
+        if (SONG.song.toLowerCase() == 'kate')
+                {
+            if (curStep == 407)
+                    {
+                    shakeCam = true;
+                    boyfriend.playAnim('scared', true);
+                    gf.playAnim('scared', true);
+                    }
+            if (curStep == 415)
+                    {
+                    shakeCam = false;
+                    }
+                }
 
 
 		// yes this updates every step.
