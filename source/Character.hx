@@ -160,6 +160,28 @@ class Character extends FlxSprite
 
 				playAnim('idle');
 
+
+				playAnim('idle');
+
+							case 'kateinsane':
+				// DAD ANIMATION LOADING CODE
+				tex = Paths.getSparrowAtlas('characters/kateinsane');
+				frames = tex;
+				animation.addByPrefix('idle', 'kateInsNEW_Idl', 24);
+				animation.addByPrefix('singUP', 'kateInsNEW_Up', 24);
+				animation.addByPrefix('singRIGHT', 'kateInsNEW_Right', 24);
+				animation.addByPrefix('singDOWN', 'kateInsNEW_Down', 24);
+				animation.addByPrefix('singLEFT', 'kateInsNEW_Left', 24);
+
+				addOffset('idle');
+				addOffset("singUP", -6, 35);
+				addOffset("singRIGHT", 0, 12);
+				addOffset("singLEFT", -10, -5);
+				addOffset("singDOWN", 0, -45);
+
+
+				playAnim('idle');
+
 			case 'spooky':
 				tex = Paths.getSparrowAtlas('characters/spooky_kids_assets');
 				frames = tex;

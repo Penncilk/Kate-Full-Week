@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="kateinsane.png" width="2238" height="2888">
+  <SubTexture name="kateInsNEW_Up0003" x="0" y="0"  width="477" height="579" frameX="-4" frameY="-7" frameWidth="485" frameHeight="591"/>
+  <SubTexture name="kateInsNEW_Up0002" x="0" y="579"  width="470" height="581" frameX="-10" frameY="-5" frameWidth="485" frameHeight="591"/>
+  <SubTexture name="kateInsNEW_Up0001" x="0" y="1160"  width="458" height="584" frameX="-19" frameY="-2" frameWidth="485" frameHeight="591"/>
+  <SubTexture name="kateInsNEW_Left0003" x="0" y="1744"  width="451" height="570" frameX="-2" frameY="-13" frameWidth="505" frameHeight="588"/>
+  <SubTexture name="kateInsNEW_Left0002" x="0" y="2314"  width="433" height="574" frameX="-52" frameY="-9" frameWidth="505" frameHeight="588"/>
+  <SubTexture name="kateInsNEW_Right0003" x="433" y="2314"  width="438" height="562" frameX="-8" frameY="-6" frameWidth="455" frameHeight="570"/>
+  <SubTexture name="kateInsNEW_Left0001" x="458" y="1160"  width="401" height="579" frameX="-100" frameY="-4" frameWidth="505" frameHeight="588"/>
+  <SubTexture name="kateInsNEW_Right0002" x="451" y="1744"  width="409" height="555" frameX="-16" frameY="-13" frameWidth="455" frameHeight="570"/>
+  <SubTexture name="kateInsNEW_Down0002" x="470" y="579"  width="432" height="509" frameX="-10" frameY="-13" frameWidth="451" frameHeight="529"/>
+  <SubTexture name="kateInsNEW_Down0003" x="859" y="1088"  width="440" height="498" frameX="-5" frameY="-24" frameWidth="451" frameHeight="529"/>
+  <SubTexture name="kateInsNEW_Down0001" x="477" y="0"  width="420" height="519" frameX="-19" frameY="-3" frameWidth="451" frameHeight="529"/>
+  <SubTexture name="kateInsNEW_Right0001" x="897" y="0"  width="394" height="548" frameX="-11" frameY="-20" frameWidth="455" frameHeight="570"/>
+  <SubTexture name="kateInsNEW_Idl0009" x="860" y="1586"  width="358" height="576" frameX="-7" frameY="-18" frameWidth="433" frameHeight="598"/>
+  <SubTexture name="kateInsNEW_Idl0010" x="871" y="2162"  width="344" height="591" frameX="-2" frameY="-3" frameWidth="433" frameHeight="598"/>
+  <SubTexture name="kateInsNEW_Idl0008" x="1215" y="2162"  width="365" height="556" frameX="-17" frameY="-38" frameWidth="433" frameHeight="598"/>
+  <SubTexture name="kateInsNEW_Idl0005" x="1218" y="1586"  width="384" height="518" frameX="-44" frameY="-78" frameWidth="433" frameHeight="598"/>
+  <SubTexture name="kateInsNEW_Idl0011" x="1580" y="2104"  width="338" height="588" frameX="-11" frameY="-5" frameWidth="433" frameHeight="598"/>
+  <SubTexture name="kateInsNEW_Idl0007" x="902" y="548"  width="366" height="533" frameX="-32" frameY="-61" frameWidth="433" frameHeight="598"/>
+  <SubTexture name="kateInsNEW_Idl0012" x="1291" y="0"  width="330" height="584" frameX="-20" frameY="-8" frameWidth="433" frameHeight="598"/>
+  <SubTexture name="kateInsNEW_Idl0006" x="1299" y="584"  width="360" height="527" frameX="-53" frameY="-68" frameWidth="433" frameHeight="598"/>
+  <SubTexture name="kateInsNEW_Idl0004" x="1621" y="0"  width="353" height="530" frameX="-61" frameY="-64" frameWidth="433" frameHeight="598"/>
+  <SubTexture name="kateInsNEW_Idl0013" x="1602" y="1111"  width="321" height="580" frameX="-30" frameY="-12" frameWidth="433" frameHeight="598"/>
+  <SubTexture name="kateInsNEW_Idl0003" x="1659" y="530"  width="335" height="542" frameX="-61" frameY="-51" frameWidth="433" frameHeight="598"/>
+  <SubTexture name="kateInsNEW_Idl0014" x="1918" y="1691"  width="311" height="575" frameX="-41" frameY="-17" frameWidth="433" frameHeight="598"/>
+  <SubTexture name="kateInsNEW_Idl0001" x="1923" y="1072"  width="312" height="570" frameX="-53" frameY="-21" frameWidth="433" frameHeight="598"/>
+  <SubTexture name="kateInsNEW_Idl0002" x="1918" y="2266"  width="320" height="551" frameX="-55" frameY="-40" frameWidth="433" frameHeight="598"/>
+</TextureAtlas>
